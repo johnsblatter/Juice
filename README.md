@@ -1,3 +1,7 @@
+[![security status](http://qa.meterian.com/badge/gh/johnsblatter/Juice/security)](http://qa.meterian.com/report/gh/johnsblatter/Juice)
+[![defect status](http://qa.meterian.com/badge/gh/johnsblatter/Juice/defect)](http://qa.meterian.com/report/gh/johnsblatter/Juice)
+
+
 For [ENGLISH](README_en.md)
 ## Why Juice
 juice是沪江(hujiang)学习系统项目组(LMS)所开发的一套基于Mesos Framework的分布式任务调度云系统，基于此系统，可以实现任何作业型任务的调度工作。
