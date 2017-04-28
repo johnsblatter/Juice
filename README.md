@@ -1,5 +1,5 @@
-[![security status](http://qa.meterian.com/badge/gh/johnsblatter/Juice/security)](http://qa.meterian.com/report/gh/johnsblatter/Juice)
-[![defect status](http://qa.meterian.com/badge/gh/johnsblatter/Juice/defect)](http://qa.meterian.com/report/gh/johnsblatter/Juice)
+[![security status](https://www.meterian.com/badge/gh/johnsblatter/Juice/security)](https://www.meterian.com/report/gh/johnsblatter/Juice)
+[![defect status](https//www.meterian.com/badge/gh/johnsblatter/Juice/defect)](https://www.meterian.com/report/gh/johnsblatter/Juice)
 
 
 For [ENGLISH](README_en.md)
